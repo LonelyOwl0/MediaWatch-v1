@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18",
+        "phpoffice/phpword": "^0.18.2",
+        "phpmailer/phpmailer": "^6.5",
+        "swiftmailer/swiftmailer": "6.0",
+        "phpmussel/phpmailer": "^3.1"
+    }
+}
